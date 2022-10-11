@@ -1,0 +1,16 @@
+:host {
+  
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+
+    .side-bar {
+        width: 10%;
+    }
+
+    .home {
+        width: 80%;
+    }
+}
